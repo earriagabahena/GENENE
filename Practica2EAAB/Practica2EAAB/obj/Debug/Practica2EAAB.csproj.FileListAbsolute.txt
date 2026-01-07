@@ -1,0 +1,8 @@
+C:\Users\jared\source\repos\Practica2EAAB\Practica2EAAB\bin\Debug\Practica2EAAB.exe.config
+C:\Users\jared\source\repos\Practica2EAAB\Practica2EAAB\bin\Debug\Practica2EAAB.exe
+C:\Users\jared\source\repos\Practica2EAAB\Practica2EAAB\bin\Debug\Practica2EAAB.pdb
+C:\Users\jared\source\repos\Practica2EAAB\Practica2EAAB\obj\Debug\Practica2EAAB.csproj.AssemblyReference.cache
+C:\Users\jared\source\repos\Practica2EAAB\Practica2EAAB\obj\Debug\Practica2EAAB.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Practica2EAAB\Practica2EAAB\obj\Debug\Practica2EAAB.exe
+C:\Users\jared\source\repos\Practica2EAAB\Practica2EAAB\obj\Debug\Practica2EAAB.pdb
+C:\Users\jared\source\repos\Practica2EAAB\Practica2EAAB\obj\Debug\Practica2EAAB.exe.config
