@@ -23,7 +23,7 @@ namespace Practica2EAAB
             string query = "SELECT TOP 5 ClienteID, Nombre, Correo, Telefono " +
                            "FROM Clientes " +
                            "Where ClienteID = @cliente";
-
+            //CREACION DE CONEXION
 
             using (SqlConnection connection = new SqlConnection(connectionString))     // Paso 1
             using (SqlCommand command = new SqlCommand(query, connection))              //Paso 2

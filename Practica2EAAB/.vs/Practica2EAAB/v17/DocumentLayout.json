@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jared\\source\\repos\\Practica2EAAB\\",
+  "WorkspaceRootPath": "C:\\Users\\jared\\OneDrive\\Desktop\\GENENE\\GENENE\\Practica2EAAB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12CCCB43-9ED9-45EA-82BC-BA99AF67FA8C}|Practica2EAAB\\Practica2EAAB.csproj|c:\\users\\jared\\source\\repos\\practica2eaab\\practica2eaab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12CCCB43-9ED9-45EA-82BC-BA99AF67FA8C}|Practica2EAAB\\Practica2EAAB.csproj|c:\\users\\jared\\onedrive\\desktop\\genene\\genene\\practica2eaab\\practica2eaab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12CCCB43-9ED9-45EA-82BC-BA99AF67FA8C}|Practica2EAAB\\Practica2EAAB.csproj|solutionrelative:practica2eaab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jared\\source\\repos\\Practica2EAAB\\Practica2EAAB\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\GENENE\\GENENE\\Practica2EAAB\\Practica2EAAB\\Program.cs",
               "RelativeDocumentMoniker": "Practica2EAAB\\Program.cs",
-              "ToolTip": "C:\\Users\\jared\\source\\repos\\Practica2EAAB\\Practica2EAAB\\Program.cs",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\GENENE\\GENENE\\Practica2EAAB\\Practica2EAAB\\Program.cs",
               "RelativeToolTip": "Practica2EAAB\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T19:48:55.057Z",
               "EditorCaption": ""
